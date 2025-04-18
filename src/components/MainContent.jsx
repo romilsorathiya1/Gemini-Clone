@@ -126,7 +126,7 @@ const MainContent = () => {
         )}
 
         <div className="absolute bottom-0 w-full max-w-[1000px] px-5 mx-auto mt-5">
-          <div className="flex  border border-[#dcdada] py-2 px-5 rounded-full">
+          <div className="flex bg-white border border-[#dcdada] py-2 px-5 rounded-full">
             <input
               type="text"
               placeholder="Enter a prompt here..."
